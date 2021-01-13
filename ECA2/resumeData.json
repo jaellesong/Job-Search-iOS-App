@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Song Jia Lin",
+    "headline": "Undergraduate",
+    "city": "Singapore",
+    "email": "jaellehoshi@gmail.com",
+    "about": "Web Developer by day, Undergraduate at SUSS by night. Hit me up for any job opportunities!",
+    "workexp": [
+      {
+        "title": "Chatbot Intern",
+        "company": "ZUMATA",
+        "city": "Singapore",
+        "from": "August 2019",
+        "to": "November 2019"
+      }, 
+      {
+        "title": "Web Design/ Developer",
+        "company": "Seamless Communications",
+        "city": "Singapore",
+        "from": "May 2015",
+        "to": "June 2018"
+      },
+      {
+        "title": "BSc in Information and Communication Technology",
+        "company": "Singapore University of Social Sciences",
+        "city": "Singapore",
+        "from": "January 2018",
+        "to": "November 2020"
+      }
+    ],
+    "skills": [
+      "HTML5",
+      "Swift"
+    ]
+  }
+]
